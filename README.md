@@ -12,8 +12,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=xxmushroom&label=Forest%20visitors&color=6b8e5a&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/github/followers/xxmushroom?label=Followers&style=flat-square&color=8b6f47" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=xxmushroom&label=forest%20visitors&color=6b8e5a&style=flat-square" alt="profile views" />
+<img src="https://img.shields.io/github/followers/xxmushroom?label=followers&style=flat-square&color=8b6f47" alt="followers" />
 
 </div>
 
@@ -78,103 +78,45 @@ repeat
 
 ---
 
-## 🧰 Tech garden
+## Stack
 
 <div align="center">
-
-### 🍄 Mobile
-
-<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
-
-### 🌿 Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nestjs,ts,nodejs,mongodb&theme=dark" />
-
-### 🪵 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nestjs,ts,nodejs,mongodb,git,github,vscode,androidstudio,postman&theme=dark" />
 </div>
 
----
+<br/>
 
-## 🍂 GitHub forest
+## GitHub
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=xxmushroom&show_icons=true&hide_border=true&bg_color=0D1117&title_color=86A96B&icon_color=C49A6C&text_color=C9D1D9&ring_color=6B8E5A&include_all_commits=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxmushroom&layout=compact&hide_border=true&bg_color=0D1117&title_color=86A96B&text_color=C9D1D9&langs_count=8" />
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xxmushroom&show_icons=true&hide_border=true&bg_color=00000000&title_color=86A96B&icon_color=C49A6C&text_color=C9D1D9&ring_color=6B8E5A&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxmushroom&layout=compact&hide_border=true&bg_color=00000000&title_color=86A96B&text_color=C9D1D9&langs_count=6" />
 </div>
 
 <br/>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=xxmushroom&hide_border=true&background=0D1117&ring=86A96B&fire=C49A6C&currStreakLabel=86A96B&sideLabels=C9D1D9&currStreakNum=F5EFE6&sideNums=F5EFE6&dates=8B949E" alt="GitHub streak" />
-
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=xxmushroom&bg_color=00000000&color=8B949E&line=6B8E5A&point=C49A6C&area=true&area_color=3C4A36&hide_border=true" alt="GitHub contribution graph" />
 </div>
 
 ---
 
-## 🌿 Contribution garden
+## Contact
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xxmushroom&bg_color=0D1117&color=C9D1D9&line=6B8E5A&point=C49A6C&area=true&area_color=3C4A36&hide_border=true" width="95%" alt="Contribution graph" />
-
-</div>
-
----
-
-## 🍄 GitHub trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=xxmushroom&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub trophies" />
-
-</div>
-
----
-
-## 🌱 Current mood
-
-<div align="center">
-
-| 🌱 Learning | 🍄 Exploring | 🌿 Improving | ☕ Surviving |
-|:---:|:---:|:---:|:---:|
-| Flutter architecture | Interactive UI | Backend systems | One bug at a time |
-
-</div>
-
----
-
-## 🌲 Find me
-
-<div align="center">
-
-<a href="LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-connect-6B8E5A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="mailto:EMAIL_ADDRESS">
-  <img src="https://img.shields.io/badge/Email-say%20hello-8B6F47?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
+  <a href="LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Samih%20Bouguerra-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:EMAIL_ADDRESS">
+    <img src="https://img.shields.io/badge/Email-say%20hello-6B8E5A?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 <br/>
 
-<div align="center">
+<p align="center">
+  🍄 &nbsp; 🌿 &nbsp; 🍄
+</p>
 
-```text
-       🍄          🍄
-   🌿  │      🌱  │  🌿
-───────┴───────────┴───────
-        still growing
-```
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F3A2F,50:6B4F3A,100:3C4A36&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F3A2F,50:6B4F3A,100:3C4A36&height=100&section=footer" />
