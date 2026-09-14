@@ -1,19 +1,15 @@
-<!--
-  🍄 Mushroom-themed GitHub profile README
-  Username assumed from your screenshot: xxmushroom
-  Replace LINKEDIN_URL and EMAIL_ADDRESS below when you're ready.
--->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3C4A36,50:6B4F3A,100:2F3A2F&height=220&section=header&text=Samih%20Bouguerra&fontSize=42&fontColor=F5EFE6&animation=fadeIn&fontAlignY=38&desc=Flutter%20%E2%80%A2%20Backend%20%E2%80%A2%20Creative%20Developer&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:263126,50:4A3A2C,100:1F2A22&height=210&section=header&text=Samih%20Bouguerra&fontSize=42&fontColor=F3EBDD&animation=fadeIn&fontAlignY=38&desc=Mobile%20Software%20Engineer&descAlignY=58&descSize=18" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1100&color=86A96B&center=true&vCenter=true&width=650&lines=Building+clean+mobile+experiences+%F0%9F%8C%B1;Flutter+%2B+Backend+Developer+%F0%9F%8D%84;Learning%2C+building%2C+shipping.;Growing+one+commit+at+a+time+%F0%9F%8C%BF" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=86A96B&center=true&vCenter=true&width=620&lines=Flutter+%E2%80%A2+React+Native+%E2%80%A2+SwiftUI+%E2%80%A2+Kotlin;Mobile+engineering+%2B+backend+%2B+AI;Building%2C+learning%2C+shipping.+%F0%9F%8D%84" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=xxmushroom&label=forest%20visitors&color=6b8e5a&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/github/followers/xxmushroom?label=followers&style=flat-square&color=8b6f47" alt="followers" />
+<a href="https://github.com/xxmushroom?tab=followers">
+  <img src="https://img.shields.io/github/followers/xxmushroom?label=followers&style=flat-square&color=6B8E5A" alt="followers" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=xxmushroom&label=profile%20views&color=8B6F47&style=flat-square" alt="profile views" />
 
 </div>
 
@@ -25,26 +21,29 @@
 
 🍄 About me
 
-class Developer {
-  final String name = "Samih Bouguerra";
+class Samih {
+  final String role = "Mobile Software Engineer";
   final String location = "Tunis, Tunisia";
 
-  final List<String> interests = [
+  final List<String> mobile = [
     "Flutter",
-    "Backend Development",
-    "Mobile Development",
-    "UI & UX",
-    "Developer Tools",
+    "React Native",
+    "SwiftUI",
+    "Jetpack Compose",
   ];
 
-  final String mindset = "keep growing";
+  final List<String> interests = [
+    "Mobile Engineering",
+    "Artificial Intelligence",
+    "Game Development",
+  ];
+
+  final String mindset = "build, learn, improve";
 }
 
-I enjoy building clean, useful and interactive software.
+Computer Science Engineering graduate specializing in Mobile & AI Development.
 
-Most of my time goes into Flutter, mobile interfaces, backend systems, and learning how to make things feel better — not just work.
-
-🌿 Still growing. Still shipping.
+I enjoy building mobile experiences, connecting them to solid backend systems, and experimenting with AI, game development, and embedded systems.
 
 </td>
 
@@ -52,19 +51,21 @@ Most of my time goes into Flutter, mobile interfaces, backend systems, and learn
 
 🌱 Right now
 
-🍄 Deepening my Flutter knowledge
+📱 Deepening my mobile engineering skills
 
-🌿 Improving app architecture
+🧱 Improving architecture & code quality
 
-🪵 Building stronger backend skills
+⚙️ Building stronger backend systems
 
-✨ Exploring animation & interaction
+🧠 Exploring AI-powered experiences
 
-☕ Debugging things that worked 5 minutes ago
+🎮 Keeping game development close
+
+🍄 Learning by building
 
 <br/>
 
-🌾 A little philosophy
+A little philosophy
 
 build
 break
@@ -76,33 +77,37 @@ repeat
 </tr>
 </table>
 
-🧰 Toolbox
+🧰 Stack
 
 <div align="center">
 
 Mobile
 
-<img src="https://img.shields.io/badge/Flutter-18212B?style=for-the-badge&logo=flutter&logoColor=54C5F8" />
-<img src="https://img.shields.io/badge/Dart-18212B?style=for-the-badge&logo=dart&logoColor=5AC7F2" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,swift&theme=dark" alt="Flutter, Dart, React Native, Kotlin, SwiftUI" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Jetpack%20Compose-18212B?style=flat-square&logo=jetpackcompose&logoColor=7F52FF" alt="Jetpack Compose" />
+<img src="https://img.shields.io/badge/SwiftUI-18212B?style=flat-square&logo=swift&logoColor=F05138" alt="SwiftUI" />
+<img src="https://img.shields.io/badge/React%20Native-18212B?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
 
 <br/><br/>
 
 Backend
 
-<img src="https://img.shields.io/badge/NestJS-18212B?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
-<img src="https://img.shields.io/badge/TypeScript-18212B?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/Node.js-18212B?style=for-the-badge&logo=nodedotjs&logoColor=6DA55F" />
-<img src="https://img.shields.io/badge/MongoDB-18212B?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+<img src="https://skillicons.dev/icons?i=nestjs,ts,nodejs,mongodb,php,symfony&theme=dark" alt="NestJS, TypeScript, Node.js, MongoDB, PHP, Symfony" />
 
 <br/><br/>
 
-Everyday tools
+Other things I work with
 
-<img src="https://img.shields.io/badge/Git-18212B?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-18212B?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/VS_Code-18212B?style=for-the-badge&logo=visualstudiocode&logoColor=23A8F2" />
-<img src="https://img.shields.io/badge/Android_Studio-18212B?style=for-the-badge&logo=androidstudio&logoColor=7CB342" />
-<img src="https://img.shields.io/badge/Postman-18212B?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+<img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode,androidstudio,postman&theme=dark" alt="C, C++, Git, GitHub, VS Code, Android Studio, Postman" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/STM32-18212B?style=flat-square&logo=stmicroelectronics&logoColor=03A9F4" alt="STM32" />
+<img src="https://img.shields.io/badge/GenAI-18212B?style=flat-square&logo=openai&logoColor=FFFFFF" alt="Generative AI" />
+<img src="https://img.shields.io/badge/Game%20Development-18212B?style=flat-square&logo=gamejolt&logoColor=86A96B" alt="Game Development" />
 
 </div>
 
@@ -110,21 +115,38 @@ Everyday tools
 
 <div align="center">
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xxmushroom&theme=github_dark" alt="GitHub stats" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xxmushroom&theme=github_dark" alt="Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=xxmushroom&show_icons=true&hide_border=true&bg_color=0D1117&title_color=86A96B&icon_color=C49A6C&text_color=C9D1D9&ring_color=6B8E5A&include_all_commits=true" alt="GitHub stats" />
 
-<br/>
-
-<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=xxmushroom&bg_color=0D1117&color=8B949E&line=6B8E5A&point=C49A6C&area=true&area_color=273126&hide_border=true&custom_title=Contribution%20activity" alt="Contribution activity" />
+<img height="165" src="https://streak-stats.demolab.com?user=xxmushroom&hide_border=true&background=0D1117&ring=6B8E5A&fire=C49A6C&currStreakLabel=86A96B&sideLabels=C9D1D9&currStreakNum=F5EFE6&sideNums=F5EFE6&dates=8B949E" alt="GitHub streak" />
 
 </div>
 
-🍄 Say hello
+<br/>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=xxmushroom&bg_color=0D1117&color=C9D1D9&line=6B8E5A&point=C49A6C&area=true&area_color=273126&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity" />
+
+</div>
+
+🎓 Background
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Mobile%20%26%20AI%20Development-ESPRIT-6B8E5A?style=flat-square" />
+<img src="https://img.shields.io/badge/Flutter-Cross--Platform-8B6F47?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-GenAI-3C4A36?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Game%20Dev-C%20%2F%20SDL-5A4635?style=flat-square" />
+<img src="https://img.shields.io/badge/Embedded-STM32-435244?style=flat-square" />
+
+</div>
+
+🍄 Contact
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/samih-bouguerra/">
-  <img src="https://img.shields.io/badge/LinkedIn-Samih_Bouguerra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Samih%20Bouguerra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="mailto:samih.bouguerra@esprit.tn">
@@ -133,7 +155,7 @@ Everyday tools
 
 <br/><br/>
 
-<sub>Open to connecting, talking Flutter, or swapping ideas over coffee ☕</sub>
+<sub>Always happy to connect, talk mobile, or exchange ideas over coffee ☕</sub>
 
 </div>
 
@@ -143,4 +165,4 @@ Everyday tools
   🍄 &nbsp;&nbsp; 🌿 &nbsp;&nbsp; 🍄
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F3A2F,50:6B4F3A,100:3C4A36&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2A22,50:4A3A2C,100:263126&height=100&section=footer" />
