@@ -23,9 +23,8 @@
 <tr>
 <td width="55%" valign="top">
 
-## 🍄 About me
+🍄 About me
 
-```dart
 class Developer {
   final String name = "Samih Bouguerra";
   final String location = "Tunis, Tunisia";
@@ -40,83 +39,108 @@ class Developer {
 
   final String mindset = "keep growing";
 }
-```
 
-I enjoy building **clean, useful and interactive software**.
+I enjoy building clean, useful and interactive software.
 
-Most of my time goes into **Flutter**, mobile interfaces, backend systems, and learning how to make things feel better — not just work.
+Most of my time goes into Flutter, mobile interfaces, backend systems, and learning how to make things feel better — not just work.
 
-> 🌿 *Still growing. Still shipping.*
+🌿 Still growing. Still shipping.
 
 </td>
 
 <td width="45%" valign="top">
 
-## 🌱 Right now
+🌱 Right now
 
-- 🍄 Deepening my Flutter knowledge
-- 🌿 Improving app architecture
-- 🪵 Building stronger backend skills
-- ✨ Exploring animation & interaction
-- ☕ Debugging things that worked 5 minutes ago
+🍄 Deepening my Flutter knowledge
+
+🌿 Improving app architecture
+
+🪵 Building stronger backend skills
+
+✨ Exploring animation & interaction
+
+☕ Debugging things that worked 5 minutes ago
 
 <br/>
 
-## 🌾 A little philosophy
+🌾 A little philosophy
 
-```text
 build
 break
 learn
 improve
 repeat
-```
 
 </td>
 </tr>
 </table>
 
----
-
-## Stack
+🧰 Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,nestjs,ts,nodejs,mongodb,git,github,vscode,androidstudio,postman&theme=dark" />
+
+Mobile
+
+<img src="https://img.shields.io/badge/Flutter-18212B?style=for-the-badge&logo=flutter&logoColor=54C5F8" />
+<img src="https://img.shields.io/badge/Dart-18212B?style=for-the-badge&logo=dart&logoColor=5AC7F2" />
+
+<br/><br/>
+
+Backend
+
+<img src="https://img.shields.io/badge/NestJS-18212B?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+<img src="https://img.shields.io/badge/TypeScript-18212B?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Node.js-18212B?style=for-the-badge&logo=nodedotjs&logoColor=6DA55F" />
+<img src="https://img.shields.io/badge/MongoDB-18212B?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+
+<br/><br/>
+
+Everyday tools
+
+<img src="https://img.shields.io/badge/Git-18212B?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-18212B?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/VS_Code-18212B?style=for-the-badge&logo=visualstudiocode&logoColor=23A8F2" />
+<img src="https://img.shields.io/badge/Android_Studio-18212B?style=for-the-badge&logo=androidstudio&logoColor=7CB342" />
+<img src="https://img.shields.io/badge/Postman-18212B?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+
 </div>
+
+📊 GitHub
+
+<div align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xxmushroom&theme=github_dark" alt="GitHub stats" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xxmushroom&theme=github_dark" alt="Languages" />
 
 <br/>
 
-## GitHub
+<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=xxmushroom&bg_color=0D1117&color=8B949E&line=6B8E5A&point=C49A6C&area=true&area_color=273126&hide_border=true&custom_title=Contribution%20activity" alt="Contribution activity" />
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xxmushroom&show_icons=true&hide_border=true&bg_color=00000000&title_color=86A96B&icon_color=C49A6C&text_color=C9D1D9&ring_color=6B8E5A&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxmushroom&layout=compact&hide_border=true&bg_color=00000000&title_color=86A96B&text_color=C9D1D9&langs_count=6" />
 </div>
 
-<br/>
+🍄 Say hello
 
 <div align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=xxmushroom&bg_color=00000000&color=8B949E&line=6B8E5A&point=C49A6C&area=true&area_color=3C4A36&hide_border=true" alt="GitHub contribution graph" />
-</div>
 
----
+<a href="https://www.linkedin.com/in/samih-bouguerra/">
+  <img src="https://img.shields.io/badge/LinkedIn-Samih_Bouguerra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-## Contact
+<a href="mailto:samih.bouguerra@esprit.tn">
+  <img src="https://img.shields.io/badge/Email-samih.bouguerra%40esprit.tn-6B8E5A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-<div align="center">
-  <a href="LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Samih%20Bouguerra-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:EMAIL_ADDRESS">
-    <img src="https://img.shields.io/badge/Email-say%20hello-6B8E5A?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<br/><br/>
+
+<sub>Open to connecting, talking Flutter, or swapping ideas over coffee ☕</sub>
+
 </div>
 
 <br/>
 
 <p align="center">
-  🍄 &nbsp; 🌿 &nbsp; 🍄
+  🍄 &nbsp;&nbsp; 🌿 &nbsp;&nbsp; 🍄
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F3A2F,50:6B4F3A,100:3C4A36&height=100&section=footer" />
