@@ -19,59 +19,42 @@
 <tr>
 <td width="55%" valign="top">
 
-🍄 About me
+<h2>🍄 About me</h2>
 
-class Samih {
-  final String role = "Mobile Software Engineer";
-  final String location = "Tunis, Tunisia";
+<img src="./samih-code.svg" width="100%" alt="Samih developer profile in Dart" />
 
-  final List<String> mobile = [
-    "Flutter",
-    "React Native",
-    "SwiftUI",
-    "Jetpack Compose",
-  ];
+<p>
+Computer Science Engineering graduate specializing in <b>Mobile &amp; AI Development</b>.
+</p>
 
-  final List<String> interests = [
-    "Mobile Engineering",
-    "Artificial Intelligence",
-    "Game Development",
-  ];
-
-  final String mindset = "build, learn, improve";
-}
-
-Computer Science Engineering graduate specializing in Mobile & AI Development.
-
+<p>
 I enjoy building mobile experiences, connecting them to solid backend systems, and experimenting with AI, game development, and embedded systems.
+</p>
 
 </td>
 
 <td width="45%" valign="top">
 
-🌱 Right now
+<h2>Right now</h2>
 
-📱 Deepening my mobile engineering skills
-
-🧱 Improving architecture & code quality
-
-⚙️ Building stronger backend systems
-
-🧠 Exploring AI-powered experiences
-
-🎮 Keeping game development close
-
-🍄 Learning by building
+<ul>
+  <li>Deepening my mobile engineering skills</li>
+  <li>Improving architecture &amp; code quality</li>
+  <li>Building stronger backend systems</li>
+  <li>Exploring AI-powered experiences</li>
+  <li>Keeping game development close</li>
+  <li>Learning by building</li>
+</ul>
 
 <br/>
 
-A little philosophy
+<h3>A little philosophy</h3>
 
-build
+<pre><code>build
 break
 learn
 improve
-repeat
+repeat</code></pre>
 
 </td>
 </tr>
@@ -111,23 +94,9 @@ Other things I work with
 
 </div>
 
-📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xxmushroom&show_icons=true&hide_border=true&bg_color=0D1117&title_color=86A96B&icon_color=C49A6C&text_color=C9D1D9&ring_color=6B8E5A&include_all_commits=true" alt="GitHub stats" />
-
-<img height="165" src="https://streak-stats.demolab.com?user=xxmushroom&hide_border=true&background=0D1117&ring=6B8E5A&fire=C49A6C&currStreakLabel=86A96B&sideLabels=C9D1D9&currStreakNum=F5EFE6&sideNums=F5EFE6&dates=8B949E" alt="GitHub streak" />
-
-</div>
-
 <br/>
 
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=xxmushroom&bg_color=0D1117&color=C9D1D9&line=6B8E5A&point=C49A6C&area=true&area_color=273126&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity" />
-
-</div>
+🔒 Most of my development happens in private repositories, so the public activity on this profile only shows part of what I'm building.
 
 🎓 Background
 
@@ -136,7 +105,7 @@ Other things I work with
 <img src="https://img.shields.io/badge/Mobile%20%26%20AI%20Development-ESPRIT-6B8E5A?style=flat-square" />
 <img src="https://img.shields.io/badge/Flutter-Cross--Platform-8B6F47?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/AI-GenAI-3C4A36?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Game%20Dev-C%20%2F%20SDL-5A4635?style=flat-square" />
+<img src="https://img.shields.io/badge/Game%20Development-5A4635?style=flat-square&logo=gamejolt&logoColor=white" />
 <img src="https://img.shields.io/badge/Embedded-STM32-435244?style=flat-square" />
 
 </div>
