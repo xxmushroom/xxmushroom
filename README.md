@@ -12,8 +12,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=xxmushroom&label=forest%20visitors&color=6b8e5a&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/github/followers/xxmushroom?label=followers&style=flat-square&color=8b6f47" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=xxmushroom&label=Forest%20visitors&color=6b8e5a&style=flat-square" alt="profile views" />
+<img src="https://img.shields.io/github/followers/xxmushroom?label=Followers&style=flat-square&color=8b6f47" alt="followers" />
 
 </div>
 
